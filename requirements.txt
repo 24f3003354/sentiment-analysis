@@ -1,5 +1,5 @@
 fastapi
-guvicorn
+gunicorn
 openai
 pydantic
-dotenv
+python-dotenv
